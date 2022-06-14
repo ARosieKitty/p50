@@ -1,0 +1,21 @@
+
+h1{
+    background-Color:tan ;
+    font-family: fantasy;
+}
+
+*{
+    background-Color:#a1b2c3;
+    background-image: url("Gameover.jpg");
+    background-size: 8cm
+}
+a{
+    background-Color: tan ;
+}
+
+.container{
+    border:solid;
+    display: flex;
+    justify-content:space-between;
+    background-Color: tan;
+}
